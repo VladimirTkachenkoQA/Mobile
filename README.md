@@ -9,3 +9,7 @@
 ### [Отчет о тестировании Ткаченко В..docx](https://github.com/user-attachments/files/20840135/default.docx)
 ### [YouTrack Mobile Testing V.Tkachenko.xlsx](https://github.com/user-attachments/files/20840152/YouTrack.Mobile.Testing.V.Tkachenko.xlsx)
 ### [Test Run Mobile Testing V.Tkachenko+2025_06_20.pdf](https://github.com/user-attachments/files/20840154/Test.Run.Mobile.Testing.V.Tkachenko%2B2025_06_20.pdf)
+
+## Charles Proxy был использован для перехвата и изменения трафика  на мобильном устройстве
+### https://github.com/user-attachments/assets/7ec2299a-b222-40ff-906b-26ac9aca2993
+
